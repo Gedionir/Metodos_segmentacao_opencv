@@ -1,2 +1,2 @@
-# Metodos_segmentacao_opencv
-Métodos de segmentação com a biblioteca OpenCV
+# Metodos de Segmentacaocom Opencv
+Métodos de segmentação com a biblioteca OpenCV, aplicando o filtro Laplaciano e Sobel no eixo x e y.
